@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-03-30T06:39:53.835Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1 Safari/605.1.15" etag="LzRvZrhUpewkrQ36P2Vz" version="12.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-03-30T06:41:39.961Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1 Safari/605.1.15" etag="gOdiAESew-efVnCej6Y9" version="12.9.4" type="github">
   <diagram name="Page-1" id="1622d65d-c77d-c4b6-e0e7-3c11208c8684">
     <mxGraphModel dx="1113" dy="819" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
       <root>
@@ -26,7 +26,7 @@
           <mxGeometry x="781.1999999999999" y="446.92307692307696" width="86.8" height="21.538461538461544" as="geometry" />
         </mxCell>
         <mxCell id="869962fe87da545-5" value="" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;dashed=0;strokeWidth=1;fillColor=#E6E6E6;fontFamily=Verdana;fontSize=70;strokeColor=none;verticalAlign=top;spacingTop=10;" parent="sVLnHsk-5qbUHLEEGtPF-48" vertex="1">
-          <mxGeometry width="812.1999999999999" height="490" as="geometry" />
+          <mxGeometry x="40" width="772.2" height="490" as="geometry" />
         </mxCell>
         <mxCell id="869962fe87da545-2" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=0;notch=30;rounded=0;strokeColor=none;strokeWidth=1;fillColor=#7FB61A;fontFamily=Tahoma;fontSize=10;fontColor=#FFFFFF;gradientColor=#1B622A;gradientDirection=east;" parent="sVLnHsk-5qbUHLEEGtPF-48" vertex="1">
           <mxGeometry x="111.6" y="75.38461538461539" width="750.2" height="96.92307692307695" as="geometry" />
@@ -38,7 +38,7 @@
           <mxGeometry x="117.80000000000001" y="350.00000000000006" width="750.2" height="96.92307692307695" as="geometry" />
         </mxCell>
         <mxCell id="869962fe87da545-18" value="&lt;font style=&quot;font-size: 35px&quot;&gt;Data scientist&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;dashed=0;fontFamily=Verdana;fontSize=70;horizontal=0;" parent="sVLnHsk-5qbUHLEEGtPF-48" vertex="1">
-          <mxGeometry x="12.399999999999999" y="91.53846153846155" width="80.6" height="355.3846153846154" as="geometry" />
+          <mxGeometry x="31" y="91.53846153846155" width="80.6" height="355.3846153846154" as="geometry" />
         </mxCell>
         <mxCell id="869962fe87da545-19" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;dashed=0;fontFamily=Helvetica;fontSize=150;fontColor=#FFFFFF;" parent="sVLnHsk-5qbUHLEEGtPF-48" vertex="1">
           <mxGeometry x="130.2" y="75.38461538461539" width="123.99999999999999" height="96.92307692307695" as="geometry" />
@@ -58,8 +58,8 @@
         <mxCell id="869962fe87da545-26" value="" style="line;strokeWidth=4;direction=south;html=1;rounded=0;shadow=0;dashed=0;fillColor=none;gradientColor=#AD0002;fontFamily=Helvetica;fontSize=150;fontColor=#FFFFFF;align=right;strokeColor=#FFFFFF;" parent="sVLnHsk-5qbUHLEEGtPF-48" vertex="1">
           <mxGeometry x="266.59999999999997" y="355.3846153846154" width="6.199999999999999" height="86.15384615384617" as="geometry" />
         </mxCell>
-        <mxCell id="869962fe87da545-29" value="&lt;h1 style=&quot;font-size: 16px&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;ビジネス力&lt;/font&gt;&lt;/h1&gt;&lt;p style=&quot;font-size: 16px&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;データの意味を理解し、分析し、ビジネスにどう活かすか考えられる人材&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;dashed=0;fontFamily=Helvetica;fontSize=15;fontColor=#FFFFFF;align=left;" parent="sVLnHsk-5qbUHLEEGtPF-48" vertex="1">
-          <mxGeometry x="291.4" y="86.15384615384617" width="415.4" height="75.38461538461539" as="geometry" />
+        <mxCell id="869962fe87da545-29" value="&lt;h1 style=&quot;font-size: 18px&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;u&gt;ビジネス力&lt;/u&gt;&lt;/font&gt;&lt;/h1&gt;&lt;p style=&quot;font-size: 18px&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;データの意味を理解し、分析し、ビジネスにどう活かすか考えられる人材&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;dashed=0;fontFamily=Helvetica;fontSize=18;fontColor=#FFFFFF;align=left;" parent="sVLnHsk-5qbUHLEEGtPF-48" vertex="1">
+          <mxGeometry x="291.4" y="86.15" width="415.4" height="83.85" as="geometry" />
         </mxCell>
         <mxCell id="869962fe87da545-34" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#FFFFFF;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.office.users.users;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;align=left;" parent="sVLnHsk-5qbUHLEEGtPF-48" vertex="1">
           <mxGeometry x="771.8999999999996" y="96.92307692307695" width="57.04" height="53.846153846153854" as="geometry" />
@@ -115,11 +115,11 @@
         <mxCell id="sVLnHsk-5qbUHLEEGtPF-33" value="Label" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=10;" vertex="1" parent="sVLnHsk-5qbUHLEEGtPF-31">
           <mxGeometry width="18.599999999999994" height="10.769230769230766" as="geometry" />
         </mxCell>
-        <mxCell id="sVLnHsk-5qbUHLEEGtPF-46" value="&lt;h1 style=&quot;font-size: 16px&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;IT/技術力&lt;/font&gt;&lt;/h1&gt;&lt;p style=&quot;font-size: 16px&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;データの取得、分析なぢをIT技術で実施できる、また技術を使えば何をできるかを理解できる人材&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;dashed=0;fontFamily=Helvetica;fontSize=15;fontColor=#FFFFFF;align=left;" vertex="1" parent="sVLnHsk-5qbUHLEEGtPF-48">
-          <mxGeometry x="291.4" y="226.1538461538462" width="415.4" height="75.38461538461539" as="geometry" />
+        <mxCell id="sVLnHsk-5qbUHLEEGtPF-46" value="&lt;h1 style=&quot;font-size: 18px&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;u&gt;IT/技術力&lt;/u&gt;&lt;/font&gt;&lt;/h1&gt;&lt;p style=&quot;font-size: 18px&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;データの取得、分析なぢをIT技術で実施できる、また技術を使えば何をできるかを理解できる人材&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;dashed=0;fontFamily=Helvetica;fontSize=18;fontColor=#FFFFFF;align=left;" vertex="1" parent="sVLnHsk-5qbUHLEEGtPF-48">
+          <mxGeometry x="291.4" y="226.15" width="415.4" height="83.85" as="geometry" />
         </mxCell>
-        <mxCell id="sVLnHsk-5qbUHLEEGtPF-47" value="&lt;h1 style=&quot;font-size: 16px&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;統計力&lt;/font&gt;&lt;/h1&gt;&lt;p style=&quot;font-size: 16px&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;統計解析や機械学習ができる、その結果が読めるレベルの統計知識を習得した人材&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;dashed=0;fontFamily=Helvetica;fontSize=15;fontColor=#FFFFFF;align=left;" vertex="1" parent="sVLnHsk-5qbUHLEEGtPF-48">
-          <mxGeometry x="291.4" y="358.07692307692315" width="415.4" height="75.38461538461539" as="geometry" />
+        <mxCell id="sVLnHsk-5qbUHLEEGtPF-47" value="&lt;h1 style=&quot;font-size: 18px&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;u&gt;統計力&lt;/u&gt;&lt;/font&gt;&lt;/h1&gt;&lt;p style=&quot;font-size: 18px&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;統計解析や機械学習ができる、その結果が読めるレベルの統計知識を習得した人材&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;dashed=0;fontFamily=Helvetica;fontSize=18;fontColor=#FFFFFF;align=left;" vertex="1" parent="sVLnHsk-5qbUHLEEGtPF-48">
+          <mxGeometry x="291.4" y="358.08" width="415.4" height="81.92" as="geometry" />
         </mxCell>
         <mxCell id="sVLnHsk-5qbUHLEEGtPF-49" value="ビッグデータ 活用に必要なスキル" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=35;" vertex="1" parent="sVLnHsk-5qbUHLEEGtPF-48">
           <mxGeometry x="111.60000000000001" y="30" width="553.6" height="20" as="geometry" />
