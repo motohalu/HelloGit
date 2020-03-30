@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-03-30T06:29:46.837Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1 Safari/605.1.15" etag="8H8Ha3vEyh3gMTYIFwWq" version="12.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-03-30T06:31:55.600Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1 Safari/605.1.15" etag="-qGBecxwZ3C6P_VfwgnB" version="12.9.4" type="github">
   <diagram name="Page-1" id="1622d65d-c77d-c4b6-e0e7-3c11208c8684">
-    <mxGraphModel dx="1577" dy="1160" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1763" dy="1740" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
@@ -23,7 +23,7 @@
           <mxGeometry x="1370" y="860" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="869962fe87da545-5" value="ビッグデータ活用に必要なスキル" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;dashed=0;strokeWidth=1;fillColor=#E6E6E6;fontFamily=Verdana;fontSize=70;strokeColor=none;verticalAlign=top;spacingTop=10;" parent="1" vertex="1">
-          <mxGeometry x="60" y="30" width="1360" height="960" as="geometry" />
+          <mxGeometry x="110" y="30" width="1310" height="910" as="geometry" />
         </mxCell>
         <mxCell id="869962fe87da545-2" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=0;notch=30;rounded=0;strokeColor=none;strokeWidth=1;fillColor=#7FB61A;fontFamily=Tahoma;fontSize=10;fontColor=#FFFFFF;gradientColor=#1B622A;gradientDirection=east;" parent="1" vertex="1">
           <mxGeometry x="290" y="170" width="1210" height="180" as="geometry" />
@@ -35,7 +35,7 @@
           <mxGeometry x="300" y="680" width="1210" height="180" as="geometry" />
         </mxCell>
         <mxCell id="869962fe87da545-18" value="Data scientist" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;dashed=0;fontFamily=Verdana;fontSize=70;horizontal=0;" parent="1" vertex="1">
-          <mxGeometry x="90" y="180" width="130" height="660" as="geometry" />
+          <mxGeometry x="130" y="200" width="130" height="660" as="geometry" />
         </mxCell>
         <mxCell id="869962fe87da545-19" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;dashed=0;fontFamily=Helvetica;fontSize=150;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="320" y="170" width="200" height="180" as="geometry" />
